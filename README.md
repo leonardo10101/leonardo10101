@@ -1,7 +1,7 @@
 ### Olá, me chamo Leonardo Candido entusiasta em tecnologia e informação! 🧙‍♂️
 
 - 👀 De olho nas oportunidades
-- Pronouns: Ele/Dele 
+- 👨🏻 Pronouns: Ele/Dele 
 - 🐺 Fun fact: Já tive um doguinho chamado "cachorro" 
 - 🌱 Aprendendo: Pyhton, JavaScript , HTML e de tudo um pouco!
  
