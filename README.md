@@ -2,7 +2,6 @@
 
 - 👀 De olho nas oportunidades
 - 👨🏻 Pronouns: Ele/Dele 
-- 🐺 Fun fact: Já tive um doguinho chamado "cachorro" 
 - 🌱 Aprendendo: Pyhton, JavaScript , HTML e de tudo um pouco!
  
 </div>
